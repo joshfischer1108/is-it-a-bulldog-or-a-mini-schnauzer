@@ -1,5 +1,5 @@
 ---
-title: Is It A Bulldog Or A Mini Schauzer?
+title: Is It A Bulldog Or A Mini Schnauzer?
 emoji: 👀
 colorFrom: green
 colorTo: pink
