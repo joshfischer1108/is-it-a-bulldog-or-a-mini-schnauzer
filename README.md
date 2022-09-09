@@ -1,10 +1,10 @@
 ---
-title: Is It A Bulldog Or Mini Schnauzer
+title: Bulldog Or Mini Schauzer
 emoji: 👀
 colorFrom: green
 colorTo: pink
 sdk: gradio
-sdk_version: 3.3
+sdk_version: 3.2
 app_file: app.py
 pinned: false
 license: apache-2.0
