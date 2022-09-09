@@ -1,5 +1,5 @@
 ---
-title: Bulldog Or Mini Schauzer
+title: Is It A Bulldog Or A Mini Schauzer?
 emoji: 👀
 colorFrom: green
 colorTo: pink
@@ -10,4 +10,3 @@ pinned: false
 license: apache-2.0
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
