@@ -14,7 +14,7 @@ def predict(img):
 
 title = "Bulldog and Mini Schnauzer Image Classifier"
 description = "<b>You can click on the example images below for an easy way to test or you can upload images from your machine</b>"
-article="<p style='text-align: center'><a href='http://nowhere.com' target='_blank'>Blog post</a></p>"
+article="<h3 style='text-align: center'><a href='https://joshfischer1108.github.io/site/post/is-it-a-bulldog-or-mini-schnauzer/' target='_blank'>Read the blog post</a></h3>"
 examples = ['bulldog.jpeg', 'mini-schnauzer.jpeg', 'snaggle-tooth.jpeg', 'little-puppy.jpeg']
 interpretation='default'
 enable_queue=True
